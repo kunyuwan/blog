@@ -1,7 +1,3 @@
----
-description: eqweqweq
----
-
 # Initial page
 
 ## Getting Super Powers
