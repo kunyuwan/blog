@@ -7,4 +7,5 @@
     * [vi编辑器命令](linux/chang-yong-ming-ling/vi.md)
   * [Untitled](linux/untitled.md)
 * [ACM](acm.md)
+* [离散数学](li-san-shu-xue.md)
 
