@@ -8,4 +8,6 @@
   * [Untitled](linux/untitled.md)
 * [ACM](acm.md)
 * [离散数学](li-san-shu-xue.md)
+* [Java](java/README.md)
+  * [Java基础语法](java/java-ji-chu-yu-fa.md)
 
