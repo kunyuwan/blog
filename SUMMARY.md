@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [README](README.md)
 * [Linux](linux/README.md)
   * [Untitled](linux/untitled-1.md)
   * [Linux常用命令](linux/chang-yong-ming-ling/README.md)
