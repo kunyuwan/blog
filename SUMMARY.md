@@ -7,4 +7,7 @@
 * [ACM](acm.md)
 * [前端](qian-duan.md)
 * [后端](hou-duan.md)
+* [考研](kao-yan/README.md)
+  * [专业课](kao-yan/zhuan-ye-ke/README.md)
+    * [计算机网络](kao-yan/zhuan-ye-ke/ji-suan-ji-wang-luo.md)
 
